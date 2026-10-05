@@ -38,7 +38,7 @@ An open-source AI travel planner that transforms natural-language travel request
                              │
                              ▼
                   🤖 Final Response Agent
-                       Groq / Llama
+                      openrouter
                              │
                              ▼
                      Final Travel Plan
